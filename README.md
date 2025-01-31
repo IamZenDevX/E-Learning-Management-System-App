@@ -53,13 +53,59 @@ The **E-Learning Management System (ELMS)** is a Designed to manage students, te
 - express
 - nodemon
 
-## **Database Structure:**
+<h2 align="left">Database Structure:</h2>
 
-The platform will require a relational database to manage User , student, instructor and  Class  .Below is a proposed database structure with the key tables.
+The platform will require a relational database to manage User , student, instructor and  Class  . Below is a proposed database structure with the key tables.
 
 ### **Tables**:
 
 ---
+
+### a) user
+
+| **Field Name** | **Type** |
+| --- | --- |
+| user_id | char(PK) |
+| username | char |
+| email | char |
+| password | char |
+| type | char |
+| firstname | char |
+| lastname | char |
+
+### b) student
+
+| **Field Name** | **Type** |
+| --- | --- |
+| student_id | char(PK) |
+| first_name | char |
+| last_name | char |
+| email | char |
+| class | char |
+
+### c) instructor
+
+| **Field Name** | **Type** |
+| --- | --- |
+| instructor_id | char(PK) |
+| first_name | char |
+| last_name | char |
+| email | char |
+
+### d) Class
+
+| **Field Name** | **Type** |
+| --- | --- |
+| class_id | char(PK) |
+| title | char |
+| description | char |
+| instructor_id | char |
+| img_url | char |
+| lesson_number | char |
+| lesson_title | char |
+| lesson body | char |
+
+#
 
 
 <h2 align="left">Use Cases:</h2>
