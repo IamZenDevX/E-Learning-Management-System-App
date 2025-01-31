@@ -6,7 +6,7 @@
 The **E-Learning Management System (ELMS)** is a Designed to manage students, teachers, classes, and user identification, the E-Learning Management System (ELMS) is a strong and scalable tool meant to enable online learning. It offers a flawless forum for teachers, colleges, and students to engage effectively. The technology guarantees simple enrollment, and ordered course delivery.
 
 <h2 align="left">Key Features:</h2>
-### 🔑 **User control**
+   🔑 User control
 
 - Safe login and permission ( Administrators, teachers, students).
 - Correct management of authorization is guaranteed by role-based access control (RBAC).
