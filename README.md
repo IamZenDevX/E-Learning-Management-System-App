@@ -30,7 +30,8 @@ The **E-Learning Management System (ELMS)** is a Designed to manage students, te
 
 <h2 align="left">Tools Used:</h2>
 
-![Zendevx Technology](https://github.com/user-attachments/assets/36c979fe-929e-44a4-8958-9c15dc466e35)
+![Untitled design (19)](https://github.com/user-attachments/assets/f537dff3-87a5-45bb-b373-df253bf84a60)
+
 
 
 <h2 align="left">Testing Tools Used:</h2>
