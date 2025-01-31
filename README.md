@@ -67,6 +67,12 @@ Below is a proposed database structure with the key tables.
 | --- | --- |
 | user_id | char(PK) |
 | username | char |
+| email | char |### a) user
+
+| **Field Name** | **Type** |
+| --- | --- |
+| user_id | char(PK) |
+| username | char |
 | email | char |
 | password | char |
 | type | char |
